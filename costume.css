@@ -1,0 +1,64 @@
+body{
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    color: rgb(31, 8, 2);
+}
+#manu{
+    position: relative;
+    top: 10px;
+}
+.btn{
+    color: black;
+    background-color:  rgb(26, 255, 76);
+}
+.btn:active{
+    color:aliceblue;
+    background-color: black;
+
+}
+.card{
+    border-right: 1px solid rgb(30, 15, 58);
+    border-radius: 5px;
+}
+#adminimg{
+    border-radius: 100%;
+    padding: 5px;
+    
+}
+    #head{
+        background-color:  rgb(26, 255, 76);
+    }
+    a{
+        color: black;
+    }
+    #side{
+        background-image: url(background.jpg);
+        background-repeat: no-repeat;
+        background-size: 100%;    }
+    #mainc{
+        padding-top: 10px;
+        background-color: aliceblue;
+    }
+    #table{
+        color:  rgb(26, 255, 76);
+        
+    }
+    #today{
+        font-family: 'Times New Roman', Times, serif;
+        font-style: inherit;
+        background-image: url(background.jpg);
+        background-repeat: no-repeat;
+        background-size: 100%;
+
+    }
+    .list-group-item:active{
+        background-color:   rgb(26, 255, 76);
+    }
+    .admindata{
+        background-color: rgba(100, 100,100, .2);
+        padding-bottom: 20px;
+        padding-top: 20px;
+        padding-left: 5px;
+        padding-right: 5px;
+    }

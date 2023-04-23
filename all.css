@@ -1,0 +1,105 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+#abcard{
+    
+    background-color:  rgba(100, 100,100, .2);
+
+}
+#bottom{
+    padding: 10px;
+    margin-right: 10px;
+    margin-top: 20px;
+    border-top-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+    box-shadow: 10px 10px 5px black;
+    border: 2px solid white;
+    background-color:  rgba(100, 100,100, .5);
+}
+#abc{
+    border-radius: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    height: 80vh;
+}
+#cobox{
+    height: fit-content;
+    padding: 60px;
+    border: 2px solid white;
+    background-color:  rgba(100, 100,100, .5);
+
+}
+#status{
+    padding: 10%;
+    box-shadow: 10px 10px 5px black;
+    border: 2px solid white;
+    background-color:  rgba(100, 100,100, .5);
+}
+#adr{
+    box-shadow: 10px 10px 5px black;
+    padding-left: 5%;
+    padding-right: 4%;
+    padding-top: 10%;
+    padding-bottom: 10%;
+    border: 2px solid white;
+    background-color:  rgba(100, 100,100, .5);
+}
+#adl{
+    box-shadow: 10px 10px 5px black;
+    align-items: center;
+    padding: 20px;
+    padding-top: 10%;
+    padding-bottom: 10%;
+    border: 2px solid white;
+    background-color:  rgba(100, 100,100, .5);
+    
+}
+#check{
+    background-color: rgb(244, 242, 241);
+    color: rgb(10, 9, 9);
+    border: 1px double black;
+}
+#check:active{
+    background-color: black;
+    color: white;
+    border: 1px double  rgba(25, 25, 25,.5 );
+}
+#lg{
+    background-color: rgb(244, 242, 241);
+    color: rgb(10, 9, 9);
+    border: 1px double black;
+}
+#lg:active{
+    background-color: black;
+    color: white;
+    border: 1px double  rgba(36, 36, 36, 0.492);
+}
+#regi{
+    background-color: rgb(244, 242, 241);
+    color: rgb(10, 9, 9);
+    border: 1px double black;
+}
+#regi:active{
+    background-color: rgb(244, 242, 241);
+    color: rgb(10, 9, 9);
+    border: 1px double black;
+}
+#problem{
+    max-width: 100%;
+    height: 100%;
+}
+#noti{
+    font-family: 'Times New Roman', Times, serif;
+    border: 2px solid black;
+    background-color: rgba(100, 100,100, .2);
+    padding: 3%;
+}
+#tb{
+    border: 2px solid black;
+    padding: 5px;
+    background-color:  rgba(100, 100,100, .2);
+}
